@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <stdio.h>
 /**
- * interactive - returns true if shell is interactive mode
+ * interactive - This returns true if shell is interactive mode
  * @info: struct address
  *
  * Return: 1 if interactive mode, 0 otherwise
